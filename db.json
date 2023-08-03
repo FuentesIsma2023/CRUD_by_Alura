@@ -1,0 +1,19 @@
+{
+  "perfil": [
+    {
+      "nombre": "ismael",
+      "email": "ismaelnajerafuentes@gmail.com",
+      "id": "27114aca-a518-4fe0-ac6a-6e6fa89f6a6a"
+    },
+    {
+      "nombre": "joaquin",
+      "email": "joaquin@ismael",
+      "id": "40f3eeb1-9bac-4af0-8a0f-1885624e24d1"
+    },
+    {
+      "nombre": "pedron",
+      "email": "pedrno@alura",
+      "id": "9b67ad70-4a3b-4b8d-90be-0cbb22c16b89"
+    }
+  ]
+}
